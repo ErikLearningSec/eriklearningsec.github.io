@@ -8,7 +8,6 @@ categories:
     - Techincal Blog Category
 tags:
     - Technical Tag
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Trong một ngày đẹp trời, khi đang lướt Twitter để cập nhật tin tức và kĩ thuật thì mình va phải post alert về quả CVE critical của Sitecore, điểm CVSS tận 9.0. Với bản tính tò mò thì mình cũng đã bắt tay vào tìm hiểu và phân tích case critical này :D

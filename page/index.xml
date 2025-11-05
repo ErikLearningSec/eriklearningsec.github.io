@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Erik Learning Sec</title><link>https://demo.stack.jimmycai.com/page/</link><description>Recent content in Pages on Erik Learning Sec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://demo.stack.jimmycai.com/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/archives/</guid><description/></item><item><title>About</title><link>https://demo.stack.jimmycai.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/about/</guid><description>&lt;h1 id="hey-im-phuoc-pham-or-you-can-call-me-erik"&gt;Hey, I&amp;rsquo;m Phuoc Pham or you can call me Erik👋
+&lt;/h1&gt;&lt;p&gt;OSWE-certified &lt;strong&gt;Penetration Tester&lt;/strong&gt;, &lt;strong&gt;Security Researcher&lt;/strong&gt;, and &lt;strong&gt;SRT Member&lt;/strong&gt; chilling in &lt;strong&gt;Da Nang, Vietnam&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Expect The Unexpected&amp;rdquo;&lt;br&gt;
+— my life motto in the wild world of cyber&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id="what-i-do"&gt;What I Do
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Penetration Tester&lt;/strong&gt; @ &lt;a class="link" href="https://vnpt.com.vn" target="_blank" rel="noopener"
+&gt;VNPT Cyber Immunity&lt;/a&gt; (Jan 2023 – now)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security Researcher&lt;/strong&gt; @ &lt;a class="link" href="https://synack.com" target="_blank" rel="noopener"
+&gt;Synack Red Team&lt;/a&gt; (Dec 2024 – now)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="skills-i-bring"&gt;Skills I Bring
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Penetration Testing&lt;/li&gt;
+&lt;li&gt;Source Code Review&lt;/li&gt;
+&lt;li&gt;Security Research - CVE Analysis&lt;/li&gt;
+&lt;li&gt;Reconnaissance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="certs--badges"&gt;Certs &amp;amp; Badges
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OffSec Web Expert (OSWE)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Pentesterlab &amp;rsquo;s Web Security Code Review Training&lt;/li&gt;
+&lt;li&gt;CyberJutsu Web Penetration Testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="wins--brags"&gt;Wins &amp;amp; Brags
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Top 5&lt;/strong&gt; – NightWolf CTF 2023 &lt;em&gt;(solo)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1st Prize&lt;/strong&gt; – Danang Information Security Drill &lt;em&gt;(team)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Top 11&lt;/strong&gt; – ASCIS Jeopardy 2023 &lt;em&gt;(team)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Consolation – ASCIS Attack Defense 2024&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://dominos.responsibledisclosure.com/hc/en-us/articles/360001378594-Acknowledgments" target="_blank" rel="noopener"
+&gt;Domino&amp;rsquo;s Pizza Acknowledgement 🍕&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="my-cves"&gt;My CVEs:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;CVE-2024-2936&lt;/li&gt;
+&lt;li&gt;CVE-2024-2946&lt;/li&gt;
+&lt;li&gt;CVE-2024-2949&lt;/li&gt;
+&lt;li&gt;CVE-2024-2785&lt;/li&gt;
+&lt;li&gt;CVE-2025-39518&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="my-hobbies"&gt;My hobbies:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Travel 🌎&lt;/li&gt;
+&lt;li&gt;Playing Sports (Pool🎱, Badminton🏸, Basketball🏀,&amp;hellip; to name just a few :D)&lt;/li&gt;
+&lt;li&gt;Watching Films &amp;amp; Series 🍿 (How I Met Your Mother, Big Bang Theory, Young Sheldon, and some other K-drama lol xD)&lt;/li&gt;
+&lt;li&gt;Playing Piano 🎹&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;I learn by &lt;strong&gt;finding problems and breaking them&lt;/strong&gt; — that’s why I love cybersecurity.&lt;br&gt;
+This blog? My playground for &lt;strong&gt;pentest tips&lt;/strong&gt;, &lt;strong&gt;bug bounty stories&lt;/strong&gt;, and random cyber rants.&lt;/p&gt;
+&lt;p&gt;Let’s connect:&lt;br&gt;
+&lt;a class="link" href="https://www.linkedin.com/in/phamphuoc/" target="_blank" rel="noopener"
+&gt;LinkedIn&lt;/a&gt; | &lt;a class="link" href="mailto:eriklearningsec@gmail.com" &gt;eriklearningsec@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Stay curious. Stay secure.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Search</title><link>https://demo.stack.jimmycai.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/search/</guid><description/></item></channel></rss>
